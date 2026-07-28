@@ -1,8 +1,6 @@
 body {
     background-color:   #e0bd9f;
-    display: flex;
-    flex-direction: column;
-    padding: 8px;
+  
 }
 
 header {
@@ -13,27 +11,48 @@ header {
     font-size: 88px;
     font-weight: lighter;
     color:#124c4e;
+    position: relative;
+    bottom: 36px;
 }
 
 .mainPageLogo {
     font-size: 100px;
     line-height: 2em;
     font-family: "Protest Guerrilla", sans-serif;
+    position: relative;
+    left: 100px;
+    top: 40px;
 }
-
+h2 {
+    position: relative;
+    left: 480px;
+}
 button {
-    width: 198px;
+    width: 248px;
     height: 38px;
     background-color: #124c4e;
     color: #f3f5f4;
-    font-size: 18px;
+    font-size: 24px;
     border: 2px solid black;
     border-radius: 14px;
     box-shadow:8px 8px #8a7769;
 }
 
-#content {
+.content {
     display: flex;
+    height: 400px;
     flex-direction: column;
-    flex-wrap: wrap;
+    font-family: "Peralta", serif;
+    justify-content: space-around;
+    position: relative;
+    top: 20px;
+}
+
+.mainPageInfo {
+    width: 480px;
+    height: 280px;
+    text-wrap: wrap;
+    position: relative;
+    top: 180px;
+    left: 180px;
 }
