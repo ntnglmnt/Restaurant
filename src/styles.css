@@ -1,51 +1,60 @@
 body {
-    background-color:   #e0bd9f;
-  
+    background-color: #e0bd9f;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-style: oblique;
     font-size: 88px;
     font-weight: lighter;
-    color:#124c4e;
+    color: #124c4e;
+    width: 820px;
+    height: 260px;
     position: relative;
-    bottom: 36px;
+    left: 540px;
+
+}
+
+nav {
+    display: flex;
+    gap: 28px;
 }
 
 .mainPageLogo {
     font-size: 100px;
     line-height: 2em;
     font-family: "Protest Guerrilla", sans-serif;
-    position: relative;
-    left: 100px;
-    top: 40px;
+    position: absolute;
+    left: 220px;
+    top: 120px;
 }
+
 h2 {
-    position: relative;
-    left: 480px;
+    position: absolute;
+    left: 260px;
 }
+
 button {
-    width: 248px;
+    width: 348px;
     height: 38px;
     background-color: #124c4e;
     color: #f3f5f4;
     font-size: 24px;
     border: 2px solid black;
     border-radius: 14px;
-    box-shadow:8px 8px #8a7769;
+    box-shadow: 8px 8px #8a7769;
 }
 
 .content {
     display: flex;
     height: 400px;
-    flex-direction: column;
+    flex-direction: row;
     font-family: "Peralta", serif;
     justify-content: space-around;
-    position: relative;
-    top: 20px;
+    width: 100vw;
 }
 
 .mainPageInfo {
@@ -53,6 +62,95 @@ button {
     height: 280px;
     text-wrap: wrap;
     position: relative;
-    top: 180px;
-    left: 180px;
+    bottom: 180px;
+}
+
+.Sketchcontainer {
+    background-color: white;
+    width: 100vw;
+    position: relative;
+    top: 880px;
+    right: 720px;
+    display: flex;
+    justify-content: center;
+}
+
+.cabinText {
+    display: flex;
+    text-wrap: wrap;
+    position: absolute;
+    left: 70px;
+    width: 680px;
+    font-size: 18px;
+}
+
+.menubtn {
+    position: relative;
+    top: 620px;
+    right: 320px;
+}
+
+.crittersContainer {
+    position: relative;
+    top: 1200px;
+    right: 150px;
+}
+
+.crittersText {
+    position: relative;
+    top: 950px;
+    left: 340px;
+}
+
+.mainPageAcknowledgement {
+    position: relative;
+    top: 1100px;
+    font-size: 28px;
+    right: 700px;
+    font-family: "Peralta", serif;
+}
+
+.bottomPanel {
+    display: flex;
+    position: relative;
+    background-color: brown;
+    top: 1400px;
+    right: 720px;
+    width: 100vw;
+    height: 400px;
+    color: aliceblue;
+}
+
+.moreInfo {
+
+}
+
+.signature {
+
+}
+
+.contact {
+    width: 800px;
+    position: relative;
+    bottom: 10px;
+    left: 1200px;
+}
+
+.hours {
+    position: relative;
+    top: 140px;
+    left: 400px;
+    width: 500px;
+}
+
+.plantContainer {
+    width: 800px;
+    position: relative;
+    top: 1400px;
+}
+
+.plantText {
+    position: relative;
+    top: 1300px;
+    font-size: 16px;
 }
