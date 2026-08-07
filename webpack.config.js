@@ -1,6 +1,8 @@
 // webpack.config.js
 import path from "node:path";
 import HtmlWebpackPlugin from "html-webpack-plugin";
+import loopSrc from '8bit-loop.mp3'; 
+
 
 export default {
   mode: "development",
@@ -25,10 +27,14 @@ export default {
         test: /\.html$/i,
         use: ["html-loader"],
       },
-
       {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: "asset/resource",
-      }],
+      },
+      {
+        test: /\.(mp3|wav|ogg)$/i,
+        type: "asset/resource",
+      },
+    ],
   },
 };
