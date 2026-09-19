@@ -1,0 +1,355 @@
+<i> [webpack-dev-server] Project is running at:
+<i> [webpack-dev-server] Loopback: http://localhost:8080/, http://[::1]:8080/
+<i> [webpack-dev-server] On Your Network (IPv4): http://192.168.1.208:8080/
+<i> [webpack-dev-server] Content not from webpack is served from '/home/john/Desktop/Odin-Project/projects/Restaurant/public' directory
+assets by path *.png 1.75 MiB
+  asset abe147ea83c3faee86b4.png 1.61 MiB [emitted] [immutable] [from: src/assets/8bit-contact-card.png] (auxiliary name: main)
+  asset 154cb18d35df0b9a1fac.png 95.5 KiB [emitted] [immutable] [from: src/assets/xx-10.png] (auxiliary name: main)
+  asset 8ffd609a9980f080418d.png 48.2 KiB [emitted] [immutable] [from: src/assets/8bit-burger-menu.png] (auxiliary name: main)
+asset main.js 207 KiB [emitted] (name: main)
+asset index.html 3.02 KiB [emitted]
+runtime modules 28.9 KiB 13 modules
+javascript modules 132 KiB
+  modules by path ./node_modules/ 124 KiB 22 modules
+  modules by path ./src/ 7.26 KiB
+    ./src/index.js 2.31 KiB [built] [code generated]
+    ./src/styles.css 2.23 KiB [built] [code generated]
+    ./node_modules/css-loader/dist/cjs.js!./src/styles.css 2.72 KiB [built] [code generated]
+asset modules 1.75 MiB (asset) 126 bytes (javascript)
+  ./src/assets/xx-10.png 95.5 KiB (asset) 42 bytes (javascript) [built] [code generated]
+  ./src/assets/8bit-burger-menu.png 48.2 KiB (asset) 42 bytes (javascript) [built] [code generated]
+  ./src/assets/8bit-contact-card.png 1.61 MiB (asset) 42 bytes (javascript) [built] [code generated]
+  PublicPath: (none)
+  asset 154cb18d35df0b9a1fac.png 95.5 KiB ({HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html}) [cached] [immutable] [from: src/assets/xx-10.png] (auxiliary name: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html)
+  Entrypoint HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html = (154cb18d35df0b9a1fac.png)
+  chunk {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} (runtime: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!./src/template.html) (HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html) 1.28 KiB (javascript) 95.5 KiB (asset) 2.14 KiB (runtime) [entry] [rendered]
+    > /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    > data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath; HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    ./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html 1.17 KiB {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built] [code generated]
+      [exports: default]
+      [used exports unknown]
+      entry /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+      used as library export
+    ./src/assets/xx-10.png 95.5 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [dependent] [built] [code generated]
+      [no exports]
+      [used exports unknown]
+      new URL() ./assets/xx-10.png [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 3:33-79
+    data:text/javascript,__webpack_public.. 77 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built] [code generated]
+      [no exports]
+      [used exports unknown]
+      entry data:text/javascript,__webpack_public.. HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    webpack/runtime/define property getters 771 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/hasOwnProperty shorthand 88 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/make namespace object 241 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/publicPath 27 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/relative url 489 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/require chunk loading 578 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+  data:text/javascript,__webpack_public.. 77 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built] [code generated]
+    [no exports]
+    [used exports unknown]
+    entry data:text/javascript,__webpack_public.. HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+  ./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html 1.17 KiB {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built] [code generated]
+    [exports: default]
+    [used exports unknown]
+    entry /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    used as library export
+  ./src/assets/xx-10.png 95.5 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [built] [code generated]
+    [no exports]
+    [used exports unknown]
+    new URL() ./assets/xx-10.png [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 3:33-79
+  webpack/runtime/define property getters 771 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/hasOwnProperty shorthand 88 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/make namespace object 241 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/publicPath 27 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/relative url 489 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/require chunk loading 578 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+    
+
+  ERROR in ./src/template.html (./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html) 2:33-76
+  Module not found: Error: Can't resolve './8bit-loop.mp3' in '/home/john/Desktop/Odin-Project/projects/Restaurant/src'
+  resolve './8bit-loop.mp3' in '/home/john/Desktop/Odin-Project/projects/Restaurant/src'
+    using description file: /home/john/Desktop/Odin-Project/projects/Restaurant/package.json (relative path: ./src)
+      using description file: /home/john/Desktop/Odin-Project/projects/Restaurant/package.json (relative path: ./src/8bit-loop.mp3)
+        no extension
+          /home/john/Desktop/Odin-Project/projects/Restaurant/src/8bit-loop.mp3 doesn't exist
+        as directory
+          /home/john/Desktop/Odin-Project/projects/Restaurant/src/8bit-loop.mp3 doesn't exist
+  ModuleNotFoundError: Module not found: Error: Can't resolve './8bit-loop.mp3' in '/home/john/Desktop/Odin-Project/projects/Restaurant/src'
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/Compilation.js:2251:28
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/NormalModuleFactory.js:1092:13
+      at eval (eval at create (/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/tapable/lib/HookCodeFactory.js:31:10), <anonymous>:10:1)
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/NormalModuleFactory.js:476:22
+      at eval (eval at create (/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/tapable/lib/HookCodeFactory.js:31:10), <anonymous>:9:1)
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/NormalModuleFactory.js:658:22
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/NormalModuleFactory.js:195:10
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/NormalModuleFactory.js:933:25
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/NormalModuleFactory.js:1178:8
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpack/lib/NormalModuleFactory.js:1308:5
+
+  Child HtmlWebpackCompiler compiled with 1 error (6a9c303d41f81924f631)
+
+ERROR in Error: Child compilation failed:
+  Module not found: Error: Can't resolve './8bit-loop.mp3' in '/home/john/Deskto  p/Odin-Project/projects/Restaurant/src'
+  ModuleNotFoundError: Module not found: Error: Can't resolve './8bit-loop.mp3'   in '/home/john/Desktop/Odin-Project/projects/Restaurant/src'
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/Compilation.js:2251:28
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/NormalModuleFactory.js:1092:13
+      at eval (eval at create (/home/john/Desktop/Odin-Project/projects/Restaura  nt/node_modules/tapable/lib/HookCodeFactory.js:31:10), <anonymous>:10:1)
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/NormalModuleFactory.js:476:22
+      at eval (eval at create (/home/john/Desktop/Odin-Project/projects/Restaura  nt/node_modules/tapable/lib/HookCodeFactory.js:31:10), <anonymous>:9:1)
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/NormalModuleFactory.js:658:22
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/NormalModuleFactory.js:195:10
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/NormalModuleFactory.js:933:25
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/NormalModuleFactory.js:1178:8
+      at /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/webpac  k/lib/NormalModuleFactory.js:1308:5
+  
+  - Compilation.js:2251 
+    [Restaurant]/[webpack]/lib/Compilation.js:2251:28
+  
+  - NormalModuleFactory.js:1092 
+    [Restaurant]/[webpack]/lib/NormalModuleFactory.js:1092:13
+  
+  
+  - NormalModuleFactory.js:476 
+    [Restaurant]/[webpack]/lib/NormalModuleFactory.js:476:22
+  
+  
+  - NormalModuleFactory.js:658 
+    [Restaurant]/[webpack]/lib/NormalModuleFactory.js:658:22
+  
+  - NormalModuleFactory.js:195 
+    [Restaurant]/[webpack]/lib/NormalModuleFactory.js:195:10
+  
+  - NormalModuleFactory.js:933 
+    [Restaurant]/[webpack]/lib/NormalModuleFactory.js:933:25
+  
+  - NormalModuleFactory.js:1178 
+    [Restaurant]/[webpack]/lib/NormalModuleFactory.js:1178:8
+  
+  - NormalModuleFactory.js:1308 
+    [Restaurant]/[webpack]/lib/NormalModuleFactory.js:1308:5
+  
+  - child-compiler.js:211 
+    [Restaurant]/[html-webpack-plugin]/lib/child-compiler.js:211:18
+  
+  - Compiler.js:702 finalCallback
+    [Restaurant]/[webpack]/lib/Compiler.js:702:5
+  
+  - Compiler.js:738 
+    [Restaurant]/[webpack]/lib/Compiler.js:738:11
+  
+  - Compiler.js:1450 
+    [Restaurant]/[webpack]/lib/Compiler.js:1450:17
+  
+  
+  - Hook.js:21 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [Restaurant]/[tapable]/lib/Hook.js:21:14
+  
+  - Compiler.js:1446 
+    [Restaurant]/[webpack]/lib/Compiler.js:1446:33
+  
+  - Compilation.js:3506 finalCallback
+    [Restaurant]/[webpack]/lib/Compilation.js:3506:11
+  
+  - Compilation.js:3852 
+    [Restaurant]/[webpack]/lib/Compilation.js:3852:11
+
+webpack 5.108.4 compiled with 2 errors in 582 ms
+assets by status 1.75 MiB [cached] 3 assets
+assets by path . 317 KiB
+  assets by info 108 KiB [immutable]
+    asset 521c63068f81a6d65767.mp3 108 KiB [emitted] [immutable] [from: src/assets/8bit-loop.mp3]
+    asset main.e606ebbb05c0ac3d2e74.hot-update.js 853 bytes [emitted] [immutable] [hmr] (name: main)
+    asset main.e606ebbb05c0ac3d2e74.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+  asset main.js 207 KiB [emitted] (name: main)
+  asset index.html 990 bytes [emitted]
+Entrypoint main 208 KiB (1.75 MiB) = main.js 207 KiB main.e606ebbb05c0ac3d2e74.hot-update.js 853 bytes 3 auxiliary assets
+cached modules 132 KiB (javascript) 1.75 MiB (asset) [cached] 28 modules
+runtime modules 28.9 KiB 13 modules
+  PublicPath: (none)
+  asset 521c63068f81a6d65767.mp3 108 KiB ({HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html}) [cached] [immutable] [from: src/assets/8bit-loop.mp3] (auxiliary name: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html)
+  asset 154cb18d35df0b9a1fac.png 95.5 KiB ({HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html}) [cached] [immutable] [from: src/assets/xx-10.png] (auxiliary name: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html)
+  Entrypoint HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html = (154cb18d35df0b9a1fac.png 521c63068f81a6d65767.mp3)
+  chunk {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} (runtime: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!./src/template.html) (HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html) 1.33 KiB (javascript) 203 KiB (asset) 2.14 KiB (runtime) [entry] [rendered]
+    > /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    > data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath; HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    ./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html 1.17 KiB {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built] [code generated]
+      [exports: default]
+      [used exports unknown]
+      entry /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+      used as library export
+    ./src/assets/8bit-loop.mp3 108 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [dependent] [built] [code generated]
+      [no exports]
+      [used exports unknown]
+      new URL() ./assets/8bit-loop.mp3 [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 2:33-83
+    ./src/assets/xx-10.png 95.5 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [dependent] [cached]
+      [no exports]
+      [used exports unknown]
+      new URL() ./assets/xx-10.png [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 3:33-79
+    data:text/javascript,__webpack_public.. 77 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [cached]
+      [no exports]
+      [used exports unknown]
+      entry data:text/javascript,__webpack_public.. HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    webpack/runtime/define property getters 771 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/hasOwnProperty shorthand 88 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/make namespace object 241 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/publicPath 27 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/relative url 489 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/require chunk loading 578 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+      [no exports]
+      [used exports unknown]
+  data:text/javascript,__webpack_public.. 77 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [cached]
+    [no exports]
+    [used exports unknown]
+    entry data:text/javascript,__webpack_public.. HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+  ./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html 1.17 KiB {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built] [code generated]
+    [exports: default]
+    [used exports unknown]
+    entry /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    used as library export
+  ./src/assets/8bit-loop.mp3 108 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [built] [code generated]
+    [no exports]
+    [used exports unknown]
+    new URL() ./assets/8bit-loop.mp3 [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 2:33-83
+  ./src/assets/xx-10.png 95.5 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [cached]
+    [no exports]
+    [used exports unknown]
+    new URL() ./assets/xx-10.png [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 3:33-79
+  webpack/runtime/define property getters 771 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/hasOwnProperty shorthand 88 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/make namespace object 241 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/publicPath 27 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/relative url 489 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/require chunk loading 578 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [code generated]
+    [no exports]
+    [used exports unknown]
+    
+  Child HtmlWebpackCompiler compiled successfully (2b1d77a1e01477248df0)
+webpack 5.108.4 compiled successfully in 81 ms
+assets by status 2.05 MiB [cached] 5 assets
+asset index.html 990 bytes [emitted]
+cached modules 132 KiB (javascript) 1.75 MiB (asset) 28.9 KiB (runtime) [cached] 41 modules
+  PublicPath: (none)
+  asset 521c63068f81a6d65767.mp3 108 KiB ({HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html}) [cached] [immutable] [from: src/assets/8bit-loop.mp3] (auxiliary name: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html)
+  asset 154cb18d35df0b9a1fac.png 95.5 KiB ({HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html}) [cached] [immutable] [from: src/assets/xx-10.png] (auxiliary name: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html)
+  Entrypoint HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html = (154cb18d35df0b9a1fac.png 521c63068f81a6d65767.mp3)
+  chunk {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} (runtime: HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!./src/template.html) (HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html) 1.33 KiB (javascript) 203 KiB (asset) 2.14 KiB (runtime) [entry]
+    > /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    > data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath; HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    ./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html 1.17 KiB {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built]
+      [exports: default]
+      [used exports unknown]
+      entry /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+      used as library export
+    ./src/assets/8bit-loop.mp3 108 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [dependent] [cached]
+      [no exports]
+      [used exports unknown]
+      new URL() ./assets/8bit-loop.mp3 [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 2:33-83
+    ./src/assets/xx-10.png 95.5 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [dependent] [cached]
+      [no exports]
+      [used exports unknown]
+      new URL() ./assets/xx-10.png [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 3:33-79
+    data:text/javascript,__webpack_public.. 77 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [cached]
+      [no exports]
+      [used exports unknown]
+      entry data:text/javascript,__webpack_public.. HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    webpack/runtime/define property getters 771 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/hasOwnProperty shorthand 88 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/make namespace object 241 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/publicPath 27 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/relative url 489 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+      [no exports]
+      [used exports unknown]
+    webpack/runtime/require chunk loading 578 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+      [no exports]
+      [used exports unknown]
+  data:text/javascript,__webpack_public.. 77 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [cached]
+    [no exports]
+    [used exports unknown]
+    entry data:text/javascript,__webpack_public.. HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+  ./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html 1.17 KiB {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 0] [built]
+    [exports: default]
+    [used exports unknown]
+    entry /home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html
+    used as library export
+  ./src/assets/8bit-loop.mp3 108 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [cached]
+    [no exports]
+    [used exports unknown]
+    new URL() ./assets/8bit-loop.mp3 [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 2:33-83
+  ./src/assets/xx-10.png 95.5 KiB (asset) 42 bytes (javascript) {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [depth 1] [cached]
+    [no exports]
+    [used exports unknown]
+    new URL() ./assets/xx-10.png [./node_modules/html-webpack-plugin/lib/loader.js!./src/template.html] 3:33-79
+  webpack/runtime/define property getters 771 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/hasOwnProperty shorthand 88 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/make namespace object 241 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/publicPath 27 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/relative url 489 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+    [no exports]
+    [used exports unknown]
+  webpack/runtime/require chunk loading 578 bytes {HtmlWebpackPlugin_0-/home/john/Desktop/Odin-Project/projects/Restaurant/node_modules/html-webpack-plugin/lib/loader.js!/home/john/Desktop/Odin-Project/projects/Restaurant/src/template.html} [cached]
+    [no exports]
+    [used exports unknown]
+    
+  Child HtmlWebpackCompiler compiled successfully (2b1d77a1e01477248df0)
+webpack 5.108.4 compiled successfully in 30 ms
+<i> [webpack-dev-server] Gracefully shutting down. To force exit, press ^C again. Please wait...

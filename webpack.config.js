@@ -1,7 +1,7 @@
 // webpack.config.js
 import path from "node:path";
 import HtmlWebpackPlugin from "html-webpack-plugin";
-import loopSrc from '8bit-loop.mp3'; 
+
 
 
 export default {
